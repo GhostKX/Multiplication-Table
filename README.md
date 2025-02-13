@@ -20,7 +20,7 @@ A simple Python script that displays the multiplication table for any number bet
 4. Run the script:
 
 ```bash
-python multiplication_table.py
+python main.py
 ```
 
 ## Author
